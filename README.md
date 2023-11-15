@@ -3,4 +3,7 @@
 * Trabajo final de django ✅ 
 * Linea de profundizacion II 👩‍💻
 
-# Tema: Sistema de gestión escolar uso de #django y #mysql 
+# Tema: Sistema de gestión escolar 
+
+<br>
+Uso de #django y #mysql 
