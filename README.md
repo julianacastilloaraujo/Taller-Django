@@ -2,6 +2,11 @@
 * Realizado por : Juliana Castillo (@jlianacastillo)
 * Trabajo final de django ✅ 
 * Linea de profundizacion II 👩‍💻
+* Uso de Django y Python
+
+# Acceso al pdf del paso a paso 📚
+
+Para acceder al paso a paso [Da un clic aqui 🚀](https://drive.google.com/file/d/1183WOCpH88n8awzoeo2I19m9xe3mJMZJ/view?usp=sharing)
 
 # Tema: Sistema de gestión escolar 
 <div align="center">
